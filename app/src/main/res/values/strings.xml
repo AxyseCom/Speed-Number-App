@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speed number</string>
+    <string name="start">START</string>
+    <string name="start_score">0</string>
+</resources>
