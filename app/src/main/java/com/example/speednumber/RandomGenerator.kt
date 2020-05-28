@@ -2,7 +2,7 @@ package com.example.speednumber
 
 class RandomGenerator(val a: Int, val b: Int) {
 
-    var an = 10
+    var asd = 11 
 
     fun getLeftNumber() : Int {
         val random = (a..b).random()
