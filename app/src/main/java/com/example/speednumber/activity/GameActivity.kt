@@ -9,8 +9,7 @@ import com.example.speednumber.RandomGenerator
 import kotlinx.android.synthetic.main.activity_game.*
 
 class GameActivity : AppCompatActivity() {
-
-    var clickStatus: Int = 1
+    
     var answerId = (0..3).random()
 
     val num: RandomGenerator = RandomGenerator(1, 99)
